@@ -1,0 +1,202 @@
+S1 /* <div class="box">Box 1</div>
+    <div class="box">Box 2</div>
+    <div class="box">Box 3</div>
+    <div class="box">Box 4</div>
+    <div class="box">Box 5</div>
+    <div class="box">Box 6</div>
+    <div class="box">Box 7</div>
+    <div class="box">Box 8</div>
+    <div class="box">Box 9</div>
+    <div class="box">Box 10</div> */
+
+S2 /* <div class="box">Box 1</div> */
+
+S3 /* <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+    <li>Item 4</li>
+    <li>Item 5</li>
+    <li>Item 6</li>
+    <li>Item 7</li>
+    <li>Item 8</li>
+    <li>Item 9</li>
+    <li>Item 10</li> */
+
+S4 /* <li>Item 10</li> */
+
+S5 /* <h1>Exercice CSS Selectors</h1>
+    <div id="container">
+    <ul id="list">
+    <p class="highlight">This is a paragraph with class "highlight".</p>
+    <p>This is a normal paragraph.</p>
+    <a href="https://example.com">Link 1</a>
+    <a href="https://example.com">Link 2</a>
+    <a href="https://example.com">Link 3</a>
+    <a href="https://example.com">Link 4</a>
+    <a href="https://example.com">Link 5</a>
+    <table> */
+   
+S6 /* <a href="https://example.com">Link 1</a>
+    <a href="https://example.com">Link 2</a>
+    <a href="https://example.com">Link 3</a>
+    <a href="https://example.com">Link 4</a>
+    <a href="https://example.com">Link 5</a> */
+
+S7 /* <a href="https://example.com">Link 1</a>
+    <a href="https://example.com">Link 2</a>
+    <a href="https://example.com">Link 3</a>
+    <a href="https://example.com">Link 4</a>
+    <a href="https://example.com">Link 5</a> */
+
+S8 /* <a href="https://example.com">Link 1</a>
+    <a href="https://example.com">Link 2</a>
+    <a href="https://example.com">Link 3</a>
+    <a href="https://example.com">Link 4</a>
+    <a href="https://example.com">Link 5</a> */
+
+S9  /* <td>Cell 1</td>
+    <td>Cell 2</td>
+    <td>Cell 3</td>
+    <td>Cell 4</td>
+    <td>Cell 5</td>
+    <td>Cell 6</td>*/
+
+S10 /* <td>Cell 1</td>
+    <td>Cell 2</td>
+    <td>Cell 3</td> */
+
+S11 /* <th>Header 1</th>
+    <th>Header 2</th>
+    <th>Header 3</th> */
+
+S12 /* <td>Cell 1</td>
+    <td>Cell 2</td>
+    <td>Cell 3</td> */
+
+S13 /* <div class="box">Box 1</div>
+<div class="box">Box 2</div>
+<div class="box">Box 3</div>
+<div class="box">Box 4</div>
+<div class="box">Box 5</div>
+<div class="box">Box 6</div>
+<div class="box">Box 7</div>
+<div class="box">Box 8</div>
+<div class="box">Box 9</div>
+<div class="box">Box 10</div> */
+
+S14 /* <div class="box">Box 1</div>
+<div class="box">Box 2</div>
+<div class="box">Box 3</div>
+<div class="box">Box 4</div>
+<div class="box">Box 5</div>
+<div class="box">Box 6</div>
+<div class="box">Box 7</div>
+<div class="box">Box 8</div>
+<div class="box">Box 9</div>
+<div class="box">Box 10</div> */
+
+S15 /* <div class="box">Box 2</div>
+<div class="box">Box 3</div>
+<div class="box">Box 4</div>
+<div class="box">Box 5</div>
+<div class="box">Box 6</div>
+<div class="box">Box 7</div>
+<div class="box">Box 8</div>
+<div class="box">Box 9</div>
+<div class="box">Box 10</div> */
+
+S16 /* <div class="box">Box 3</div>
+    <div class="box">Box 4</div>
+    <div class="box">Box 5</div>
+    <div class="box">Box 6</div>
+    <div class="box">Box 7</div>
+    <div class="box">Box 8</div>
+    <div class="box">Box 9</div>
+    <div class="box">Box 10</div> */
+
+S17    /* <div class="box">Box 3</div>
+    <div class="box">Box 4</div>
+    <div class="box">Box 5</div>
+    <div class="box">Box 6</div>
+    <div class="box">Box 7</div>
+    <div class="box">Box 8</div>
+    <div class="box">Box 9</div>
+    <div class="box">Box 10</div> */
+
+S18 /* <div class="box">Box 5</div>
+    <div class="box">Box 6</div>
+    <div class="box">Box 7</div>
+    <div class="box">Box 8</div>
+    <div class="box">Box 9</div>
+    <div class="box">Box 10</div> */
+
+S19 /* <div class="box">Box 6</div>
+    <div class="box">Box 7</div>
+    <div class="box">Box 8</div>
+    <div class="box">Box 9</div>
+    <div class="box">Box 10</div> */
+
+S20 /* <div class="box">Box 7</div>
+    <div class="box">Box 8</div>
+    <div class="box">Box 9</div>
+    <div class="box">Box 10</div> */
+
+S21 /* <div class="box">Box 8</div>
+    <div class="box">Box 9</div>
+    <div class="box">Box 10</div> */
+
+S22 /* <div class="box">Box 9</div>
+    <div class="box">Box 10</div> */
+
+S23 /* <div class="box">Box 10</div> */
+
+S24
+
+S25 /* <div class="box">Box 1</div>
+    <div class="box">Box 2</div>
+    <div class="box">Box 3</div>
+    <div class="box">Box 4</div>
+    <div class="box">Box 5</div> */
+
+S26 /* <div class="box">Box 1</div>
+    <div class="box">Box 2</div>
+    <div class="box">Box 3</div>
+    <div class="box">Box 4</div>
+    <div class="box">Box 5</div>
+    <div class="box">Box 6</div> */
+
+S27 /* <div class="box">Box 1</div>
+    <div class="box">Box 2</div>
+    <div class="box">Box 3</div>
+    <div class="box">Box 4</div>
+    <div class="box">Box 5</div>
+    <div class="box">Box 6</div>
+    <div class="box">Box 7</div> */
+    
+S28 /* <div class="box">Box 1</div>
+    <div class="box">Box 2</div>
+    <div class="box">Box 3</div>
+    <div class="box">Box 4</div>
+    <div class="box">Box 5</div>
+    <div class="box">Box 6</div>
+    <div class="box">Box 7</div>
+    <div class="box">Box 8</div> */
+
+S29 /* <div class="box">Box 1</div>
+    <div class="box">Box 2</div>
+    <div class="box">Box 3</div>
+    <div class="box">Box 4</div>
+    <div class="box">Box 5</div>
+    <div class="box">Box 6</div>
+    <div class="box">Box 7</div>
+    <div class="box">Box 8</div>
+    <div class="box">Box 9</div> */
+
+S30 /* <div class="box">Box 2</div>
+    <div class="box">Box 3</div>
+    <div class="box">Box 4</div>
+    <div class="box">Box 5</div>
+    <div class="box">Box 6</div>
+    <div class="box">Box 7</div>
+    <div class="box">Box 8</div>
+    <div class="box">Box 9</div> */
